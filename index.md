@@ -216,6 +216,11 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 <hr/>
 {% endif %}
 
+<p>
+  <strong>Registration:</strong>
+  Please go to <a href="https://www.nmepscor.org/events/data-carpentry-workshop-nmhu">NM EPSCoR's registration page</a>. 
+  The deadline for registering is February 28, with a registration cap of 30 people. Lunch will be provided both days, so please let us know when registering about any dietary restrictions.
+</p>
 
 {% comment %} 
 SURVEYS - DO NOT EDIT SURVEY LINKS 
